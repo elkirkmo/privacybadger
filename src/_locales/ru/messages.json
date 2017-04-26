@@ -12,7 +12,7 @@
         "message": "Разрешен "
     },
     "data_settings": {
-        "message": "Manage Data"
+        "message": "Управлять данные"
     },
     "description": {
         "message": "Privacy Badger защищает вас от трекеров во время работы в Интернете!"
@@ -21,13 +21,13 @@
         "message": "Privacy Badger отключен для сайтов из списка, приведенного ниже. Вы можете добавить домен с помощью значка Privacy Badger в адресной строке или напечатать домен (НЕ URL) в текстовом поле и нажать кнопку «Добавить домен»."
     },
     "download": {
-        "message": "Download"
+        "message": "Загрузить"
     },
     "error_input": {
         "message": "Что случилось?"
     },
     "export_user_data": {
-        "message": "Export user data"
+        "message": "Экспортировать данные пользователя"
     },
     "feed_the_badger_title": {
         "message": "Щелкните, чтобы вернуть этот трекер под контроль Privacy Badger"
@@ -39,19 +39,19 @@
         "message": "Узнайте, как Privacy Badger защищает вашу приватность."
     },
     "import": {
-        "message": "Import"
+        "message": "Импортировать"
     },
     "import_select_file": {
-        "message": "Please select a file to import."
+        "message": "Пожалуйста выберите файл импортировать"
     },
     "import_successful": {
         "message": "Tracker list and settings updated successfully!"
     },
     "import_user_data": {
-        "message": "Import user data"
+        "message": "Импортировать данные пользователя"
     },
     "invalid_json": {
-        "message": "Invalid JSON file."
+        "message": "Недейсвительный файл JSON."
     },
     "name": {
         "message": "Privacy Badger"
